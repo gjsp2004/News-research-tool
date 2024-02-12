@@ -1,1 +1,1 @@
-# Text-Summerization-nlp
+# News research tool
