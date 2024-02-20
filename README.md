@@ -1,3 +1,3 @@
 # News research tool
 
-In this LLM project, I  have used langchain, openai API, and streamlit to build a news research tool that can be used by equity research analysts to conduct their research. 
+This end-to-end NLP project employs Langchain, the OpenAI API, and Streamlit to construct a dynamic news research tool tailored for equity research analysts. Users can input their queries, and the tool utilizes Langchain's language capabilities to fetch relevant news articles. Leveraging the OpenAI API, it generates concise summaries and key insights from the retrieved articles, aiding analysts in their research endeavors. With the intuitive interface of Streamlit, users can seamlessly navigate through the tool, making it an invaluable asset for data scientists and NLP engineers aiming to enhance their project portfolios with real-life industry applications.
